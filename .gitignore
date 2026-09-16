@@ -1,0 +1,5 @@
+_wix/
+.claude/
+Thumbs.db
+.DS_Store
+*.bak
